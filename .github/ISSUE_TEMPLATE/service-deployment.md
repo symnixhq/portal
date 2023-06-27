@@ -1,5 +1,4 @@
 ---
-# reference: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests
 name: "Service Deployment"
 description: "Add your service which should be deployable next here"
 title: "Make [SERVICE] ready for Deployment"
