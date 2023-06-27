@@ -6,9 +6,7 @@ title: "Make [SERVICE] ready for Deployment"
 labels: [
   "new-service"
 ]
-assignees: xFuture603
----
-
+assignees: "xFuture603"
 body:
   - type: markdown
     attributes:
