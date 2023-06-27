@@ -30,7 +30,7 @@ body:
     id: resources
     attributes:
       label: "Resources"
-      description: Please provide some additional information about the service. For example:
+      description: Please provide some additional information about the service.
       placeholder: Links to the official repository, link to the docker image, link to the official service website
     validations:
       required: false
