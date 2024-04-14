@@ -1,5 +1,10 @@
-site_name: Symnix - Documentation
+site_name: Symnix - User Documentation
 site_url: https://symnixhq.github.io/portal/
+nav:
+  - Overview: index.md
+  - getting_started.md
+  - faq.md
+  - Support: support.md
 theme:
-  name: readthedocs
-  highlightjs: true
+  name: material
+  font: Work Sans
