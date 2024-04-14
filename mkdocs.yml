@@ -1,4 +1,4 @@
 site_name: Symnix - Documentation
 site_url: https://symnixhq.github.io/portal/
 theme:
-  name: material
+  name: readthedocs
