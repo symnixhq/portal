@@ -10,7 +10,7 @@ theme:
   font:
     text: Work Sans
   favicon: assets/favicon.ico
-  logo: assets/symnix_logo.svg
+  logo: assets/symnix_logo.png
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
