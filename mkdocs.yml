@@ -7,4 +7,5 @@ nav:
   - Support: support.md
 theme:
   name: material
-  font: Work Sans
+  font:
+    text: Work Sans
