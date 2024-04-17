@@ -1,5 +1,8 @@
 site_name: Symnix - User Documentation
 site_url: https://symnixhq.github.io/portal/
+markdown_extensions:
+  - toc:
+      permalink: true
 nav:
   - Overview: index.md
   - getting_started.md
