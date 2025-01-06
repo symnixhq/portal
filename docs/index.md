@@ -8,4 +8,12 @@ Symnix offers a centralized way to organize users or organizations through granu
 
 ## Why Symnix?
 
-We offer a wide range of different services that can be deployed. To start a deployment, you only need to specify a target host and define a few variables.
+We offer a wide range of different services that can be deployed. To start a deployment, you only need to specify a target host and define a few variables. Our application then takes over the deployment of the desired application. Check the [Getting Started ⧉](getting_started.md) section to deploy your first application.
+
+## How it works
+
+## Features
+
+## Development Status
+
+Symnix is being actively developed by our team.

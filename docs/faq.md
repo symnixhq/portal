@@ -8,6 +8,10 @@ Yes you can! As long as your server has enough hardware available.
 
 Our pricing model is open and transparent. You pay the price you see without hidden costs.
 
+## Which operating systems do you support?
+
+We currently support Ubuntu 22.04 and 24.04, Debian 11 and 12 and Rocky Linux 9. Other operating systems may also work, but are not currently being tested.
+
 ## Where can I deploy my services?
 
 You can deploy your services anywhere as long as you have access to the server and the server is reachable from the internet. It doesn't matter if it's a VM in the cloud or even your own server at home.
@@ -22,7 +26,7 @@ Symnix stores your account data in the EU in Germany, protected by some of the s
 
 ## What happens with my services if I unsubscribe?
 
-We're sorry to see you go. Nevertheless, all services will remain deployed on your host in the same version as you deployed them with your active subscription. However, you cannot deploy new versions of your services or make changes via the Symnix application. We will forget all credentials to your system as soon as you unsubscribe.
+We're sorry to see you go. Nevertheless, all services will remain deployed on your host in the same version as you deployed them with your active subscription. However, you cannot deploy new versions of your services or make changes via the Symnix application.
 
 ## Where can I view upcoming features?
 
