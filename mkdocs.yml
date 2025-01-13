@@ -5,9 +5,10 @@ markdown_extensions:
       permalink: true
 nav:
   - Overview: index.md
-  - getting_started.md
-  - faq.md
+  - Getting Started: getting_started.md
+  - FAQ: faq.md
   - Support: support.md
+  - Open Source Philosophy: open_source_philosophy.md
   - Symnix App ⧉: https://symnix.com
 theme:
   name: material
